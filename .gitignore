@@ -1,5 +1,9 @@
+### Course files ###
+*.docx
+
 ### IntelliJ IDEA ###
 .idea/
+.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
